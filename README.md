@@ -1,5 +1,5 @@
 # Publication_Sigma54
-The data and scripts that accompany the publication Khan EA, Tietze L, Fages-Lartaud M, Dahiya GS, R ̈uckert-Reed C, Busche T, Kalinowski J, Shingler V, Lale R. High-resolution mapping of Sigma Factor DNA Binding Sequences using Artificial Promoters, RNA aptamers and Deep Sequencing.
+The data and scripts that accompany the publication Khan EA, Ruckert-Reed C, Dahiya GS, Tietze L, Fages-Lartaud M, Busche T, Kalinowski J, Shingler V, Lale R. High-resolution mapping of Sigma Factor DNA Binding Sequences using Artificial Promoters, RNA aptamers and Deep Sequencing.
 
 DNA_Sequencing folder, Splitting the DNA-sequenced ARES library into multiple files.
 
