@@ -1,7 +1,7 @@
 # Publication_Sigma54
 The data and scripts that accompany the publication Khan EA, Ruckert-Reed C, Dahiya GS, Tietze L, Fages-Lartaud M, Busche T, Kalinowski J, Shingler V, Lale R. High-resolution mapping of Sigma Factor DNA Binding Sequences using Artificial Promoters, RNA aptamers and Deep Sequencing.
 
-DNA_Sequencing folder, Splitting the DNA-sequenced ARES library into multiple files.
+DNA_Sequencing folder, DNA sequencing of the ARES plasmid DNA library was performed using the MiSeq platform (Illumina) and the GridION and PromethION platforms (Oxford Nanopore Technologies). We utilized these NGS platforms to identify DNA template sequences within the library. Illumina MiSeq sequencing generated 15.8 million paired-end reads, with 13.8 million high-quality reads retained after filtering and dereplication. ONT sequencing contributed an additional 11.4 million reads, resulting in 6.4 million unique reads after dereplication across all libraries. Clustering these sequences at a 90% similarity threshold using VSEARCH identified 1.54 million unique ARES sequences, 587,082 of which were supported by at least three independent reads, ensuring high confidence in the results.
 
 The Plasmid_maps folder contains the following: a map of the cloned Mango aptamer in the pSEVA2311 backbone, a map of the cloned ARES (N200) in the pHH100-dBroccoli backbone, a map of ARES with adapter, and a map of the cloned dBroccoli aptamer in the pHH100 backbone.
 
