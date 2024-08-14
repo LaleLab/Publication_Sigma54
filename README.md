@@ -3,7 +3,7 @@ The data and scripts that accompany the publication Khan EA, Ruckert-Reed C, Dah
 
 DNA_Sequencing folder, Splitting the DNA-sequenced ARES library into multiple files.
 
-Plasmid_maps folder • Cloned Mango aptamer in pSEVA2311 backbone • Cloned ARES (N200) in pHH100-dBroccoli backbone • Map of ARES with adapter • Cloned dBroccoli aptamer in pHH100 backbone
+The Plasmid_maps folder contains the following: a map of the cloned Mango aptamer in the pSEVA2311 backbone, a map of the cloned ARES (N200) in the pHH100-dBroccoli backbone, a map of ARES with adapter, and a map of the cloned dBroccoli aptamer in the pHH100 backbone.
 
 RNA_Sequencing folder, Sequencing of in vitro transcribed RNA using Oxford Nanopore Technologies' PromethION R10.4.1 flow cell. The 'mapped' column represents the number of RNA reads mapped to the sequenced ARES library. The 'position' column indicates the transcription start site (TSS) positions on the sequenced ARES library, corresponding to the 'sequence' column..
 
