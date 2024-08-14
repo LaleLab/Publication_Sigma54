@@ -5,7 +5,7 @@ DNA_Sequencing folder, Splitting the DNA-sequenced ARES library into multiple fi
 
 Plasmid_maps folder • Cloned Mango aptamer in pSEVA2311 backbone • Cloned ARES (N200) in pHH100-dBroccoli backbone • Map of ARES with adapter • Cloned dBroccoli aptamer in pHH100 backbone
 
-RNA_Sequencing folder, Unique library components mapped to RNA and TSS are written in capital letters.
+RNA_Sequencing folder, Sequencing of in vitro transcribed RNA using Oxford Nanopore Technologies' PromethION R10.4.1 flow cell. The 'mapped' column represents the number of RNA reads mapped to the sequenced ARES library. The 'position' column indicates the transcription start site (TSS) positions on the sequenced ARES library, corresponding to the 'sequence' column..
 
 ARES_New_IDs folder, The IDs used in the DNA and RNA sequence files differ from those used in the SRA submission file. To assist researchers, I have included both the SRA and raw data IDs in these files for easy reference.
 
