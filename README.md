@@ -11,4 +11,7 @@ ARES_New_IDs folder, The IDs used in the DNA and RNA sequence files differ from 
 
 Data_Analysis_Script folder, • Python script for the finding of promoter motifs • Perl script for marking the TSS
 
+Sigma54_raw_data, 
+Proportions of different nucleotides (A, C, G, T) at each position within the -24 and -12 consensus sequences of sigma-54 promoters (ARES).
+
 The supplementary folder contains figures illustrating the following: the importance of ΔA2-DmpR for P. putida σ54-dependent IVT reactions (Fig. S1); the distribution of a single motif within a 97 bp region upstream of the TSS in the highest expressing ARES subset (Fig. S2); and the distribution of a single motif within the 40 bp region upstream of the TSS in the highest expressing ARES subset (Fig. S3). Additionally, the folder includes tables detailing primer sequences (Table S1), sequences of the 18 shortlisted ARES for IVT validation (Table S2), and significant annotations of IVT-generated σ54-RNA polymerase binding motifs in the upstream regions of genes (Table S3). Benchling links to the plasmids used in this study are also provided.
