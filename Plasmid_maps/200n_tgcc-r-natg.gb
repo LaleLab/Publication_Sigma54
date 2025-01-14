@@ -1,0 +1,49 @@
+LOCUS       200N_TGCC_R_NATG         264 bp ds-DNA     linear       17-JAN-2022
+DEFINITION  .
+COMMENT     >BB_Prefix GAATTCGCGGCCGCTTCTAGAG >BB_Suffix TACTAGTAGCGGCCGCTGCAG
+            >BB_Suffix_Rev ctgcagcggccgctactagta 200N Insert ends: >200N-Bsa1 -
+            5' GGTCTCatgcc CCAGAGtacgg >200N-Bsa1 - 3'  GGTCTCnnnnn CCAGAGnnnnn
+            Codon optimised Synthetic DNA ends (COSD): >COSD-Bsa1 - 5'
+            GGTCTCnnnnATG* CCAGAGnnnnTAC *ATG is the translational start for
+            the gene of interest. >COSD-Bsa1 - 3' TGCCnGAGACC TCGGnCTCTGG
+            Vector 3' - Insert 5' - Insert 3' - Vector 5' COSD-Bsa1-3' _
+            200N-Bsa1-5'_ 200N-Bsa1-3' _ COSD-Bsa1-5' 200N-SD Prefix - Bsa1 -
+            (N)200 - GGAG - (N)8 - Bsa1-Suffix GAATTCGCGGCCGCTTCTAGAG-GGTCTCatg
+            cc-(N)200-GGAG-(N)8-GAGACC-TACTAGTAGCGGCCGCTGCAG Cloning of 200N-SD
+            upstream of promotorlesss Kan gene: > Kan_Fwd
+            CGGTCTCnnnnATGATTGAACAAGATGGATTGCAC
+FEATURES             Location/Qualifiers
+     misc_feature    1..22
+                     /label="Prefix"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     primer          1..33
+                     /label="BsaI_insert_del"
+                     /note="sequence: GAATTCGCGGCCGCTTCTAGAGaGTCTCaTGCC"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     primer          1..33
+                     /label="BsaI_insert_del"
+                     /note="sequence: GAATTCGCGGCCGCTTCTAGAGaGTCTCaTGCC"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    233..233
+                     /label="200N"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     primer          complement(236..264)
+                     /label="LT_320_BBsBsaI "
+                     /note="sequence: CTGGATGGTTGTGAGACCCTGCAGCGGCCGCTACTAGTAGGTCTCGC"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     misc_feature    244..264
+                     /label="Suffix"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+ORIGIN
+        1 GAATTCGCGG CCGCTTCTAG AGGGTCTCaT GCCNNNNNNN NNNNNNNNNN NNNNNNNNNN
+       61 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      121 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN
+      181 NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNatgcGAG
+      241 ACCTACTAGT AGCGGCCGCT GCAG
+//
