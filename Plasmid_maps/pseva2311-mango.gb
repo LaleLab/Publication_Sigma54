@@ -1,0 +1,154 @@
+LOCUS       pSEVA2311_Mango         3359 bp ds-DNA     circular     01-APR-2022
+DEFINITION  .
+COMMENT     Imported using the Genbank importer. File name: pSCM.gbk
+            ApEinfo:methylated:1 Source name: pSEVA2311M (Note: Geneious
+            sometimes stores the sequence name in the source attribute)
+FEATURES             Location/Qualifiers
+     terminator      complement(266..370)
+                     /label="T1"
+                     /ApEinfo_revcolor="#808080"
+                     /ApEinfo_fwdcolor="#808080"
+                     /note="ApEinfo_revcolor: #808080"
+     primer          283..303
+                     /label="Col1_PCR_Fw"
+                     /note="sequence: GTCCTACTCAGGAGAGCGTTC"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     primer          complement(351..392)
+                     /label="Gibs_Frag1_Re"
+                     /note="sequence: GCAAcatTTACATTTAATTAAAGGCATCAAATAAAACGAAAG"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     primer          369..404
+                     /label="Gibs_Mango_Fw"
+                     /note="sequence: CCTTTAATTAAATGTAAatgTTGCCATGTGTATGTG"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     CDS             380..487
+                     /label="Translation 380-487"
+                     /translation="M*MLPCVCGRTKEGLVCGIFVRPHTLMILRDHSWQ*"
+     misc_feature    386..406
+                     /label="F30 scaffold"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     misc_feature    407..445
+                     /label="Mango (A 10 U) aptamer"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    446..484
+                     /label="F30"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     primer          complement(463..482)
+                     /label="Col1_PCR_Re"
+                     /note="sequence: GCCATGAATGATCCCGAAGG"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     misc_feature    488..751
+                     /label="rbcl 3'UTR"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     primer          complement(732..763)
+                     /label="Gibs_Mango_Re"
+                     /note="sequence: TCCAAGACTAGTACGCGCtacatccgctttag"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     primer          739..772
+                     /label="Gibs_Frag1_Fw"
+                     /note="sequence: ggatgtaGCGCGTACTAGTCTTGGACTCCTGTTG"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     terminator      758..860
+                     /label="T0"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="ApEinfo_revcolor: #c0c0c0"
+     CDS             988..1803
+                     /label="neomycin phosphotransferase"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     gene            988..1803
+                     /label="neo"
+                     /ApEinfo_revcolor="#808080"
+                     /ApEinfo_fwdcolor="#808080"
+                     /note="ApEinfo_revcolor: #808080"
+     CDS             988..1803
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MSHIQRETSCSRPRLNSNMDADLYGYKWARDNVGQSGATIYRLYGKPDAPELFLKHGKGSVANDVTDEMVRLNWLTEFMPLPTIKHFIRTPDDAWLLTTAIPGKTAFQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFRLAQAQSRMNNGLVDASDFDDERNGWPVEQVWKEMHKLLPFSPDSVVTHGDFSLDNLIFDEGKLIGCIDVGRVGIADRYQDLAILWNCLGEFSPSLQKRLFQKYGIDNPDMNKLQFHLMLDEFF*"
+     misc_feature    complement(1835..2080)
+                     /label="oriT"
+                     /ApEinfo_revcolor="#808040"
+                     /ApEinfo_fwdcolor="#808040"
+                     /note="ApEinfo_revcolor: #808040"
+     misc_feature    2089..251
+                     /label="pBBR1 ori"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     gene            complement(2089..2751)
+                     /label="REP"
+                     /ApEinfo_revcolor="#ff0080"
+                     /ApEinfo_fwdcolor="#ff0080"
+                     /note="ApEinfo_revcolor: #ff0080"
+     misc_feature    2752..251
+                     /label="oriV"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+ORIGIN
+        1 CAAGGCCGCA GGCCGCGCAG TTGGAGCCGG TGGGTATGTG GTCGAAGGCT GGGTAGCCGG
+       61 TGGGCAATCC CTGTGGTCAA GCTCGTGGGC AGGCGCAGCC TGTCCATCAG CTTGTCCAGC
+      121 AGGGTTGTCC ACGGGCCGAG CGAAGCGAGC CAGCCGGTGG CCGCTCGCGG CCATCGTCCA
+      181 CATATCCACG GGCTGGCAAG GGAGCGCAgc gaccgcgcag ggcgaagccc ggagagcaag
+      241 cccgtagggg gGGCGCGCCC AGCTGTCTAG GGCGGCGGAT TTGTCCTACT CAGGAGAGCG
+      301 TTCACCGACA AACAACAGAT AAAACGAAAG GCCCAGTCTT TCGACTGAGC CTTTCGTTTT
+      361 ATTTGATGCC TTTAATTAAA TGTAAatgTT GCCATGTGTA TGTGGGCGTA CGAAGGAAGG
+      421 TTTGGTATGT GGTATATTCG TACGCCCACA TACTCTGATG ATCCTTCGGG ATCATTCATG
+      481 GCAATAAttt ttatttttca tgatgtttat gtgaatagca taaacatcgt ttttattttt
+      541 atggtgttta ggttaaatac ctaaacatca ttttacattt ttaaaattaa gttctaaagt
+      601 tatcttttgt ttaaatttgc ctgtctttat aaattacgat gtgccagaaa aataaaatct
+      661 tagcttttta ttatagaatt tatctttatg tattatattt tataagttat aataaaagaa
+      721 atagtaacat actaaagcgg atgtaGCGCG TACTAGTCTT GGACTCCTGT TGATAGATCC
+      781 AGTAATGACC TCAGAACTCC ATCTGGATTT GTTCAGAACG CTCGGTTGCC GCCGGGCGTT
+      841 TTTTATTGGT GAGAATCCAG GGGTCCCCAA TAATTACGAT TTAAATTTGT GTCTCAAAAT
+      901 CTCTGATGTT ACATTGCACA AGATAAAAAT ATATCATCAT GAACAATAAA ACTGTCTGCT
+      961 TACATAAACA GTAATACAAG GGGTGTTATG AGCCATATTC AGCGTGAAAC GAGCTGTAGC
+     1021 CGTCCGCGTC TGAACAGCAA CATGGATGCG GATCTGTATG GCTATAAATG GGCGCGTGAT
+     1081 AACGTGGGTC AGAGCGGCGC GACCATTTAT CGTCTGTATG GCAAACCGGA TGCGCCGGAA
+     1141 CTGTTTCTGA AACATGGCAA AGGCAGCGTG GCGAACGATG TGACCGATGA AATGGTGCGT
+     1201 CTGAACTGGC TGACCGAATT TATGCCGCTG CCGACCATTA AACATTTTAT TCGCACCCCG
+     1261 GATGATGCGT GGCTGCTGAC CACCGCGATT CCGGGCAAAA CCGCGTTTCA GGTGCTGGAA
+     1321 GAATATCCGG ATAGCGGCGA AAACATTGTG GATGCGCTGG CCGTGTTTCT GCGTCGTCTG
+     1381 CATAGCATTC CGGTGTGCAA CTGCCCGTTT AACAGCGATC GTGTGTTTCG TCTGGCCCAG
+     1441 GCGCAGAGCC GTATGAACAA CGGCCTGGTG GATGCGAGCG ATTTTGATGA TGAACGTAAC
+     1501 GGCTGGCCGG TGGAACAGGT GTGGAAAGAA ATGCATAAAC TGCTGCCGTT TAGCCCGGAT
+     1561 AGCGTGGTGA CCCACGGCGA TTTTAGCCTG GATAACCTGA TTTTCGATGA AGGCAAACTG
+     1621 ATTGGCTGCA TTGATGTGGG CCGTGTGGGC ATTGCGGATC GTTATCAGGA TCTGGCCATT
+     1681 CTGTGGAACT GCCTGGGCGA ATTTAGCCCG AGCCTGCAAA AACGTCTGTT TCAGAAATAT
+     1741 GGCATTGATA ATCCGGATAT GAACAAACTG CAATTTCATC TGATGCTGGA TGAATTTTTC
+     1801 TAATAATTAA TTGGACCGcg gtccgcgcgt tgtcCTTTTC CGCTGCATAA CCCTGCTTCG
+     1861 GGGTCATTAT AGCGATTTTT TCGGTATATC CATCCTTTTT CGCACGATAT ACAGGATTTT
+     1921 GCCAAAGGGT TCGTGTAGAC TTTCCTTGGT GTATCCAACG GCGTCAGCCG GGCAGGATAG
+     1981 GTGAAGTAGG CCCACCCGCG AGCGGGTGTT CCTTCTTCAC TGTCCCTTAT TCGCACCTGG
+     2041 CGGTGCTCAA CGGGAATCCT GCTCTGCGAG GCTGGCCGTA GGCCGGCCCT ACCGGCGCGG
+     2101 CAGCGTTACC CGTGTCGGCG GCTCCAACGG CTCGCCATCG TCCAGAAAAC ACGGCTCATC
+     2161 GGGCATCGGC AGGCGCTGCT GCCCGCGCCG TTCCCATTCC TCCGTTTCGG TCAAGGCTGG
+     2221 CAGGTCTGGT TCCATGCCCG GAATGCCGGG CTGGCTGGGC GGCTCCTCGC CGGGGCCGGT
+     2281 CGGTAGTTGC TGCTCGCCCG GATACAGGGT CGGGATGCGG CGCAGGTCGC CATGCCCCAA
+     2341 CAGCGATTCG TCCTGGTCGT CGTGATCAAC CACCACGGCG GCACTGAACA CCGACAGGCG
+     2401 CAACTGGTCG CGGGGCTGGC CCCACGCCAC GCGGTCATTG ACCACGTAGG CCGACACGGT
+     2461 GCCGGGGCCG TTGAGCTTCA CGACGGAGAT CCAGCGCTCG GCCACCAAGT CCTTGACTGC
+     2521 GTATTGGACC GTCCGCAAAG AACGTCCGAT GAGCTTGGAA AGTGTCTTCT GGCTGACCAC
+     2581 CACGGCGTTC TGGTGGCCCA TCTGCGCCAC GAGGTGATGC AGCAGCATTG CCGCCGTGGG
+     2641 TTTCCTCGCA ATAAGCCCGG CCCACGCCTC ATGCGCTTTG CGTTCCGTTT GCACCCAGTG
+     2701 ACCGGGCTTG TTCTTGGCTT GAATGCCGAT TTCTCTGGAC TGCGTGGCCA TGCTTATCTC
+     2761 CATGCGGTAG GGgTGCCGCA CGGTTGCGGC ACCATGCGCA ATCAGCTGCA ACTTTTCGGC
+     2821 AGCGCGACAA CAATTATGCG TTGCGTAAAA GTGGCAGTCA ATTACAGATT TTCTTTAACC
+     2881 TACGCAATGA GCTATTGCGG GGGGTGCCGC AATGAGCTGT TGCGTACCCC CCTTTTTTAA
+     2941 GTTGTTGATT TTTAAGTCTT TCGCATTTCG CCCTATATCT AGTTCTTTGG TGCCCAAAGA
+     3001 AGGGCACCCC TGCGGGGTTC CCCCACGCCT TCGGCGCGGC TCCCCCTCCG GCAAAAAGTG
+     3061 GCCCCTCCGG GGCTTGTTGA TCGACTGCGC GGCCTTCGGC CTTGCCCAAG GTGGCGCTGC
+     3121 CCCCTTGGAA CCCCCGCACT CGCCGCCGTG AGGCTCGGGG GGCAGGCGGG CGGGCTTCGC
+     3181 CcTTCGACTG CCCCCACTCG CATAGGCTTG GGTCGTTCCA GGCGCGTCAA GGCCAAGCCG
+     3241 CTGCGCGGTC GCTGCGCGAG CCTTGACCCG CCTTCCACTT GGTGTCCAAC CGGCAAGCGA
+     3301 AGCGCGCAGG CCGCAGGCCG GAGGCTTTTC CCCAGAGAAA ATTAAAAAAA TTGATGGGG
+//
