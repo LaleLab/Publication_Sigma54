@@ -1,6 +1,6 @@
 # Publication_Sigma54
 
-This repository contains the data and scripts associated with the publication: Khan EA, Ruckert-Reed C, Dahiya GS, Tietze L, Fages-Lartaud M, Busche T, Kalinowski J, Shingler V, Lale R. High-resolution mapping of Sigma Factor DNA Binding Sequences using Artificial Promoters, RNA aptamers, and Deep Sequencing.
+This repository contains the data and scripts associated with the publication: Khan EA, Ruckert-Reed C, Dahiya GS, Tietze L, Fages-Lartaud M, Busche T, Kalinowski J, Shingler V, Lale R. (2025) High-resolution mapping of Sigma Factor DNA Binding Sequences using Artificial Promoters, RNA aptamers, and Deep Sequencing. Nucleic Acids Research.
 
 - DNA_Sequencing folder: This folder includes the sequencing data of the ARES plasmid DNA library, performed using the Illumina MiSeq platform and the Oxford Nanopore Technologies GridION and PromethION platforms. We used these NGS platforms to identify DNA template sequences within the library. Illumina MiSeq sequencing yielded 15.8 million paired-end reads, with 13.8 million high-quality reads retained after filtering and dereplication. Additionally, ONT sequencing provided 11.4 million reads, resulting in 6.4 million unique reads after dereplication across all libraries. Clustering these sequences at a 90% similarity threshold using VSEARCH identified 1.54 million unique ARES sequences, 587,082 of which were supported by at least three independent reads, ensuring high confidence in the results.
 
